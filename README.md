@@ -1,1 +1,1 @@
-# XO2-wallet-app
+lmwallet
